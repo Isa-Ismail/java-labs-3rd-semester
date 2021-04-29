@@ -1,2 +1,2 @@
 # java-labs-3rd-semester
-# java-labs-3rd-sem
+# Group members: Shamil, Shanto, Tasmia, Tanvir, Ismail
